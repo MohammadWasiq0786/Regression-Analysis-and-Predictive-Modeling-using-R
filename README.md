@@ -1,5 +1,5 @@
-# $\quad \quad \quad$ Regression Analysis & Predictive Modeling using R
-## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ Course Code : DSM-1003
+# $\quad \quad \quad \quad \quad \quad$ Regression Analysis & Predictive Modeling using R
+## $\quad \quad \quad \quad \quad \quad \quad \quad \quad$ \quad \quad \quad Course Code : DSM-1003
 
 Book :-: **An Introduction to Statistical Learning with Applications in R**
 
