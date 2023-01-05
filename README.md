@@ -1,5 +1,4 @@
-# Regression Analysis & Predictive Modeling using R
-## $\quad \quad \quad \quad \quad \quad \quad$ Course Code : DSM-1003
+# [**Regression Analysis & Predictive Modeling using R (DSM-1003)**](https://github.com/MohammadWasiq0786/Regression-Analysis-and-Predictive-Modeling-using-R)
 
 Book :-: **An Introduction to Statistical Learning with Applications in R**
 
